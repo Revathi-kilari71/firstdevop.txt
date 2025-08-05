@@ -1,0 +1,25 @@
+# Student Portal Demo
+
+This repository contains a simple demo for a **Student Portal** application. The goal of this application is to provide students with a centralized platform to manage their academic activities and information.
+
+## ✨ Features
+
+- Student login and registration
+- View and edit personal profiles
+- Access course schedules and grades
+- Submit assignments
+- Message instructors or classmates
+- Admin panel for managing students and courses
+
+## 🛠 Tech Stack (Example)
+
+- Frontend: HTML, CSS, JavaScript (or React)
+- Backend: Node.js / Express
+- Database: MongoDB or PostgreSQL
+
+## 🚀 Getting Started
+
+Clone the repo:
+
+```bash
+git clone https://github.com/your-username/student-portal-demo.git
